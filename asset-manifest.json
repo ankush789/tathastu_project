@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/tathastu_project/static/css/main.adf25cff.chunk.css",
-    "main.js": "/tathastu_project/static/js/main.ac4010bb.chunk.js",
-    "main.js.map": "/tathastu_project/static/js/main.ac4010bb.chunk.js.map",
+    "main.js": "/tathastu_project/static/js/main.cf67842d.chunk.js",
+    "main.js.map": "/tathastu_project/static/js/main.cf67842d.chunk.js.map",
     "runtime-main.js": "/tathastu_project/static/js/runtime-main.c8716401.js",
     "runtime-main.js.map": "/tathastu_project/static/js/runtime-main.c8716401.js.map",
     "static/js/2.8cd263ab.chunk.js": "/tathastu_project/static/js/2.8cd263ab.chunk.js",
@@ -27,6 +27,6 @@
     "static/js/runtime-main.c8716401.js",
     "static/js/2.8cd263ab.chunk.js",
     "static/css/main.adf25cff.chunk.css",
-    "static/js/main.ac4010bb.chunk.js"
+    "static/js/main.cf67842d.chunk.js"
   ]
 }
