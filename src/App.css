@@ -7,8 +7,7 @@
 
 .home,
 .services,
-.products,
-.sign-up {
+.products {
   display: flex;
   height: 90vh;
   align-items: center;
@@ -40,5 +39,27 @@
   background-size: cover;
   background-repeat: no-repeat;
   color: #fff;
-  font-size: 100px;
+  display: flex;
+  height: 90vh;
+  align-items: center;
+  justify-content: center;
+}
+.form-wrapper {
+}
+
+.form_input input {
+  width: 300px;
+  padding: 20px;
+  margin: 8px 0px;
+  height: 40px;
+  font-size: 15px !important;
+  border: 1px solid #777;
+  outline: none;
+  border-radius: 8px;
+  background: rgb(216, 208, 208);
+  color: #fff;
+}
+.button {
+  text-align: center;
+  margin-top: 8px;
 }
