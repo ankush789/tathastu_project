@@ -7,6 +7,7 @@ const images = {
   img6: require('./images/img-6.jpg').default,
   img7: require('./images/img-7.jpg').default,
   img8: require('./images/img-8.jpg').default,
+  img9: require('./images/img-9.jpg').default,
   home: require('./images/img-home.jpg').default,
 };
 const video = {
