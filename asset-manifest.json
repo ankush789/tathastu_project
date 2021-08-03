@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/tathastu_project/static/css/main.adf25cff.chunk.css",
+    "main.js": "/tathastu_project/static/js/main.ac4010bb.chunk.js",
+    "main.js.map": "/tathastu_project/static/js/main.ac4010bb.chunk.js.map",
+    "runtime-main.js": "/tathastu_project/static/js/runtime-main.c8716401.js",
+    "runtime-main.js.map": "/tathastu_project/static/js/runtime-main.c8716401.js.map",
+    "static/js/2.8cd263ab.chunk.js": "/tathastu_project/static/js/2.8cd263ab.chunk.js",
+    "static/js/2.8cd263ab.chunk.js.map": "/tathastu_project/static/js/2.8cd263ab.chunk.js.map",
+    "index.html": "/tathastu_project/index.html",
+    "static/css/main.adf25cff.chunk.css.map": "/tathastu_project/static/css/main.adf25cff.chunk.css.map",
+    "static/js/2.8cd263ab.chunk.js.LICENSE.txt": "/tathastu_project/static/js/2.8cd263ab.chunk.js.LICENSE.txt",
+    "static/media/img-1.jpg": "/tathastu_project/static/media/img-1.53f48437.jpg",
+    "static/media/img-2.jpg": "/tathastu_project/static/media/img-2.bb238fc1.jpg",
+    "static/media/img-3.jpg": "/tathastu_project/static/media/img-3.6d683c0e.jpg",
+    "static/media/img-4.jpg": "/tathastu_project/static/media/img-4.a31875b7.jpg",
+    "static/media/img-5.jpg": "/tathastu_project/static/media/img-5.7fadbe1b.jpg",
+    "static/media/img-6.jpg": "/tathastu_project/static/media/img-6.047226b0.jpg",
+    "static/media/img-7.jpg": "/tathastu_project/static/media/img-7.dfeef525.jpg",
+    "static/media/img-8.jpg": "/tathastu_project/static/media/img-8.fabdf94d.jpg",
+    "static/media/img-9.jpg": "/tathastu_project/static/media/img-9.f97f588f.jpg",
+    "static/media/img-home.jpg": "/tathastu_project/static/media/img-home.c034239e.jpg",
+    "static/media/video-1.mp4": "/tathastu_project/static/media/video-1.59e75226.mp4",
+    "static/media/video-2.mp4": "/tathastu_project/static/media/video-2.39e6c79b.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c8716401.js",
+    "static/js/2.8cd263ab.chunk.js",
+    "static/css/main.adf25cff.chunk.css",
+    "static/js/main.ac4010bb.chunk.js"
+  ]
+}
